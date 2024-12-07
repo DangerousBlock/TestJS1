@@ -1,10 +1,17 @@
 body {
     font-family: Montserrat Alternates;
     text-align: center;
-    margin-top: 50px;
 }
 .container{
+    width: 1440px;
+    margin: 0 auto;
+    background-image: url(./img/Group\ 141.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container2{
     width: 1090px;
+    background-color: white;
     margin: 0 auto;
 }
 .title{
